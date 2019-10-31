@@ -43,10 +43,6 @@ const Dashboard = () => {
       </div>
     </DivColumn>
   );
-<<<<<<< HEAD
-=======
-
->>>>>>> d1f486702f3e87ec4b1023f2abec373b1ead0ec4
 };
 
 export default Dashboard;
